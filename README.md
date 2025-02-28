@@ -1,4 +1,4 @@
---> All the images of the all tasks completed successfully:
+--> All images of all tasks have been completed successfully:
 
 ![1-task](https://github.com/user-attachments/assets/adcf934f-d681-40a7-8b8c-77bd9dc5b70a)
 ![7-task](https://github.com/user-attachments/assets/840d6d24-b6da-4888-8891-0792d60bcaeb)
